@@ -1,0 +1,188 @@
+/*--------------------------------------------------------------
+# elements
+--------------------------------------------------------------*/
+html {
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+}
+*,
+*:before,
+*:after {
+	/* Inherit box-sizing to make it easier to change the property for components that leverage other behavior; see https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
+	box-sizing: inherit;
+	font-family: inherit;
+}
+body {
+	background-color: #373737;
+}
+
+
+/*--------------------------------------------------------------
+# header
+--------------------------------------------------------------*/
+.header {
+	width: 100%;
+	background-color: #616161;
+}
+
+
+/*--------------------------------------------------------------
+## header-title
+--------------------------------------------------------------*/
+.header-title {
+	clear: both;
+	display: table;
+	width: 1200px;
+	margin: 0 auto;
+}
+.header-title a {
+	display: table-cell;
+	text-align: center;
+	font-size: 60px;
+	color: #ffffff;
+	text-decoration: none;
+	-ms-word-wrap: break-word;
+	word-wrap: break-word;
+	line-height: 125px;
+}
+.header-title a:visited,
+.header-title a:hover,
+.header-title a:focus,
+.header-title a:active
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+
+/*--------------------------------------------------------------
+## header-menu
+--------------------------------------------------------------*/
+.header-menu {
+	clear: both;
+	display: block;
+	width: 100%;
+	background-color: #373737;
+}
+.header-menu ul.dropdown {
+	display: block;
+	padding: 0;
+	list-style-type: none;
+	position: relative;
+	width: 1200px;
+	margin: 0 auto;
+	font-size: 0;
+	border-left: 1px solid #616161;
+	background-color: transparent;
+	position: relative;
+}
+.header-menu ul.dropdown li {
+	display: inline-block;
+	position: relative;
+	padding: 0;
+	margin: 0;
+	border-right: 1px solid #616161;
+	text-align: center;
+	background-color: #373737;
+	width: 14.28%
+}
+.header-menu ul.dropdown li:hover ul.dropdown-content {
+	display: block;
+}
+.header-menu ul.dropdown a {
+	padding-left: 5px;
+	padding-right: 5px;
+	display: block;
+	font-size: 14px;
+	text-decoration: none;
+	-ms-word-wrap: break-word;
+	word-wrap: break-word;
+	color: #ffffff;
+	line-height: 36px;
+}
+.header-menu ul.dropdown a:hover {
+	background-color: #616161;
+}
+.header-menu ul.dropdown a.active {
+	text-decoration: underline;
+}
+.header-menu ul.dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  background-color: #373737;
+  padding:0;
+}
+.header-menu ul.dropdown-content li {
+	text-align: left;
+	width: 100%;
+}
+.header-menu ul.dropdown-content a {
+	padding-left: 15px;
+	padding-right: 5px;
+}
+
+
+
+/*--------------------------------------------------------------
+# content
+--------------------------------------------------------------*/
+.content {
+	clear: both;
+	display: block;
+	width: 100%;
+	background-color: #d6d6d6;
+	padding: 20px 0 20px 0;
+}
+.content-inner {
+	clear: both;
+	display: block;
+	width: 1200px;
+	margin: 0 auto;
+}
+
+
+/*--------------------------------------------------------------
+# footer
+--------------------------------------------------------------*/
+.footer {
+	width: 100%;
+	background-color: #373737;
+	height: 27px;
+}
+.footer-wrapper {
+	display: block;
+	width: 1200px;
+	margin: 0 auto;
+	font-size: 14px;
+	line-height: 27px;
+}
+.footer-left {
+	display: block;
+	width: 50%;
+	float: left;
+	-ms-word-wrap: break-word;
+	word-wrap: break-word;
+	text-align: left;
+}
+.footer-right {
+	display: block;
+	width: 50%;
+	float: left;
+	-ms-word-wrap: break-word;
+	word-wrap: break-word;
+	text-align: right;
+}
+.footer span {
+	color: #757575;
+}
+.footer span.info {
+	color: #ccb039;
+}
+.footer a {
+	color: #757575;
+	text-decoration: none;
+}
+.footer a:hover {
+	text-decoration: underline;
+}
