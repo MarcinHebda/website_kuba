@@ -140,6 +140,19 @@ body {
 	width: 1200px;
 	margin: 0 auto;
 }
+.content-inner .column-left {
+	display: table-cell;
+	width: 20%;
+}
+.content-inner .column-center {
+	display: table-cell;
+	width: 60%;
+}
+.content-inner .column-right {
+	display: table-cell;
+	width: 20%;
+}
+
 
 
 /*--------------------------------------------------------------
