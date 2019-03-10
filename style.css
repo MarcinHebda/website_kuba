@@ -27,8 +27,8 @@ body {
 	background-color: #616161;
 }
 .header-inner {
-	clear: both;
-	display: block;
+   	clear: both;
+	display: table;
 	width: 1200px;
 	margin: 0 auto;
 }
@@ -62,7 +62,7 @@ body {
 
 
 /*--------------------------------------------------------------
-## header-menu
+# header-menu
 --------------------------------------------------------------*/
 .header-menu {
 	clear: both;
@@ -128,7 +128,6 @@ body {
 }
 
 
-
 /*--------------------------------------------------------------
 # content
 --------------------------------------------------------------*/
@@ -141,7 +140,7 @@ body {
 }
 .content-inner {
 	clear: both;
-	display: block;
+	display: table;
 	width: 1200px;
 	margin: 0 auto;
 }
