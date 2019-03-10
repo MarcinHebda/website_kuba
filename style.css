@@ -21,37 +21,43 @@ body {
 # header
 --------------------------------------------------------------*/
 .header {
+	clear: both;
+	display: block;
 	width: 100%;
 	background-color: #616161;
 }
-
-
-/*--------------------------------------------------------------
-## header-title
---------------------------------------------------------------*/
-.header-title {
+.header-inner {
 	clear: both;
-	display: table;
+	display: block;
 	width: 1200px;
 	margin: 0 auto;
 }
-.header-title a {
+.header-inner .column-left {
 	display: table-cell;
+	width: 80%;
+}
+.header-inner .column-left .header-title a {
+	display: block;
+	width: 100%;
 	text-align: center;
-	font-size: 60px;
+	font-size: 40px;
 	color: #ffffff;
 	text-decoration: none;
 	-ms-word-wrap: break-word;
 	word-wrap: break-word;
 	line-height: 125px;
 }
-.header-title a:visited,
-.header-title a:hover,
-.header-title a:focus,
-.header-title a:active
+.header-inner .column-left .header-title a:visited,
+.header-inner .column-left .header-title a:hover,
+.header-inner .column-left .header-title a:focus,
+.header-inner .column-left .header-title a:active
 {
 	color: #ffffff;
 	text-decoration: none;
+}
+.header-inner .column-right {
+	display: table-cell;
+	width: 20%;
 }
 
 
@@ -74,7 +80,6 @@ body {
 	font-size: 0;
 	border-left: 1px solid #616161;
 	background-color: transparent;
-	position: relative;
 }
 .header-menu ul.dropdown li {
 	display: inline-block;
