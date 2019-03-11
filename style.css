@@ -15,7 +15,10 @@ html {
 body {
 	background-color: #373737;
 }
-
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
 
 /*--------------------------------------------------------------
 # header
@@ -25,39 +28,80 @@ body {
 	display: block;
 	width: 100%;
 	background-color: #616161;
+	height: 250px;
+	padding: 20px 0 20px 0;
 }
 .header-inner {
    	clear: both;
-	display: table;
+	display: block;
 	width: 1200px;
+	height: 100%;
 	margin: 0 auto;
 }
 .header-inner .column-left {
-	display: table-cell;
-	width: 80%;
-}
-.header-inner .column-left .header-title a {
+	float: left;
 	display: block;
+	width: 80%;
+	height: 100%;
+}
+.header-inner .column-left .row-top {
+	display: block;
+	height: 50%;
 	width: 100%;
-	text-align: center;
+	background-color: darksalmon;
+}
+.header-inner .column-left .row-top a {
+	width: 100%;
+	height: 100%;
+	text-align: left;
 	font-size: 40px;
 	color: #ffffff;
 	text-decoration: none;
 	-ms-word-wrap: break-word;
 	word-wrap: break-word;
-	line-height: 125px;
+	/*line-height: 80px;*/
 }
-.header-inner .column-left .header-title a:visited,
-.header-inner .column-left .header-title a:hover,
-.header-inner .column-left .header-title a:focus,
-.header-inner .column-left .header-title a:active
+.header-inner .column-left .row-top a:visited,
+.header-inner .column-left .row-top a:hover,
+.header-inner .column-left .row-top a:focus,
+.header-inner .column-left .row-top a:active
 {
 	color: #ffffff;
 	text-decoration: none;
 }
+.header-inner .column-left .row-bottom {
+	display: block;
+	height: 50%;
+	width: 100%;
+}
+.header-inner .column-left .row-bottom .facebook-link {
+	float: left;
+	width: 30%;
+	height: 100%;
+	background-color: bisque;
+}
+.header-inner .column-left .row-bottom .facebook-link a {
+	display: block;
+	width: 120px;
+	height: 100%;
+	text-align: left;
+	text-decoration: none;
+
+	/*line-height: 80px;*/
+}
+.header-inner .column-left .row-bottom .quotation {
+	float: left;
+	width: 70%;
+	height: 100%;
+	background-color: #ccb039;
+}
 .header-inner .column-right {
-	display: table-cell;
+	float: left;
+	display: block;
 	width: 20%;
+	background-color: #d6d6d6;
+	height: 100%;
+	text-align: center;
 }
 
 
