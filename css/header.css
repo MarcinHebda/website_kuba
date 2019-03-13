@@ -1,0 +1,93 @@
+.header {
+	clear: both;
+	display: block;
+	width: 100%;
+	background-color: #616161;
+	height: 250px;
+	padding: 10px 0 10px 0;
+   	color: #ffffff;
+}
+.header-inner {
+   	clear: both;
+	display: block;
+	width: 1200px;
+	height: 100%;
+	margin: 0 auto;
+}
+.header-inner .column-left {
+	float: left;
+	display: block;
+	width: 80%;
+	height: 100%;
+}
+.header-inner .column-left .row-top {
+	display: block;
+	height: 50%;
+	width: 100%;
+}
+.header-inner .column-left .row-top a {
+	width: 100%;
+	height: 100%;
+	text-align: left;
+	font-size: 50px;
+	text-decoration: none;
+	-ms-word-wrap: break-word;
+	word-wrap: break-word;
+    position: relative;
+    left: 40px;
+    top: 20px;
+}
+.header-inner .column-left .row-top a:visited,
+.header-inner .column-left .row-top a:hover,
+.header-inner .column-left .row-top a:focus,
+.header-inner .column-left .row-top a:active
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+.header-inner .column-left .row-bottom {
+	display: block;
+	height: 50%;
+	width: 100%;
+}
+.header-inner .column-left .row-bottom .facebook-link {
+	float: left;
+	width: 15%;
+	height: 100%;
+    position: relative;
+}
+.header-inner .column-left .row-bottom .facebook-link a {
+	display: block;
+	width: 60px;
+	text-align: left;
+	text-decoration: none;
+    position: absolute;
+    bottom: 0;
+}
+.header-inner .column-left .row-bottom .quotation {
+	float: left;
+	width: 85%;
+	height: 100%;
+}
+.header-inner .column-left .row-bottom .quotation div {
+	width: 100%;
+	height: 50%;
+	text-align: center;
+    font-size: 20px;
+    line-height: 25px;
+}
+.header-inner .column-left .row-bottom .quotation .author {
+	width: 100%;
+	height: 50%;
+	text-align: center;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.header-inner .column-right {
+	float: left;
+	display: block;
+	width: 20%;
+	height: 100%;
+	text-align: center;
+}
