@@ -1,0 +1,17 @@
+	<div class="content">
+		<div class="content-inner">
+			<div class="column-left">
+				<img src="img/content_column_left_01.png" />
+				<img src="img/content_column_left_02.png" />
+				<img src="img/content_column_left_03.png" />
+			</div><!-- .column-left -->
+			<div class="column-center">
+
+<p> treść strony </p>
+			</div><!-- .column-center -->
+			<div class="column-right">
+				<img class="photo" src="img/content_column_right_01.jpg" />
+				<img class="photo" src="img/content_column_right_01.jpg" />
+			</div><!-- column-right -->
+		</div><!-- .content-inner -->
+	</div><!-- .content -->

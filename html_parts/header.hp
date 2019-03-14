@@ -1,0 +1,25 @@
+    <div class="header">
+		<div class="header-inner">
+			<div class="column-left">
+				<div class="row-top">
+					<a href="#">Pomóżmy Kubie stanąć na obu nóżkach</a>
+				</div><!-- .row-top -->
+				<div class="row-bottom">
+					<div class="facebook-link">
+						<a href="#"><img src="img/header_img_02.png" /></a>
+					</div><!-- .facebook-link -->
+					<div class="quotation">
+						<div>
+							Serce jest bogactwem, którego się nie sprzedaje,<br />ani się nie kupuje, ale które się ofiarowuje.
+						</div>
+						<div class="author">
+							Gustave Flaubert
+						</div><!-- .author -->
+					</div><!-- .quotaion -->
+				</div><!-- .row-bottom -->
+			</div><!-- .column-left -->
+			<div class="column-right">
+				<img src="img/header_img_01.png" />
+			</div><!-- .column-right -->
+		</div><!-- .header-inner -->
+	</div><!-- .header -->

@@ -1,0 +1,9 @@
+	<footer class="footer">
+        <div class="footer-wrapper">
+            <div class="footer-left">
+                <span>&copy;&nbsp;2019</span><span>&nbsp;</span><a href="#">Pomagamy Kubie</a>
+    		</div><!-- .footer-copyright -->
+            <div class="footer-right">
+    		</div><!-- .footer-info -->
+        </div>
+    </footer><!-- .footer -->

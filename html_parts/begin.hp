@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="pl-PL">
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Pomagamy Kubie</title>
+
+	<link rel='stylesheet' href="css/normalize.css" />
+	<link rel='stylesheet' href="css/elements.css"/>
+	<link rel='stylesheet' href="css/header.css"/>
+	<link rel='stylesheet' href="css/header-menu.css"/>
+	<link rel='stylesheet' href="css/content.css"/>
+	<link rel='stylesheet' href="css/footer.css"/>
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+</head>
+<body>
+<div>
