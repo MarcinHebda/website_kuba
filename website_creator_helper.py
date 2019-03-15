@@ -1,3 +1,5 @@
+import json
+
 class KubaWebsite:
 
 
@@ -7,15 +9,34 @@ class KubaWebsite:
         self.html_parts_dir = 'html_parts'
         self.content_dir = 'site_content'
 
+    def get_menu(self):
+        with open('menu.json', 'r') as data_file:
+            return json.load(data_file)
+
+
+    def create_submenu(self, submenu_list, menu_item_filename=''):
+
+        submenu_content = '\t\t\t\t<ul class="dropdown-content">\n'
+        for sml in submenu_list:
+            current_class = 'class="current" ' if menu_item_filename == sml['filename'] else ''
+            submenu_content += '\t\t\t\t\t<li><a ' + current_class + 'href="' + sml['filename'] + '.html">' + sml['name'] + '</a></li>\n'
+        submenu_content += '\t\t\t\t</ul>\n'
+        return submenu_content
+
 
     def create_menu(self, menu_item_filename=''):
 
         """ count of menu items have to be SEVEN! """
 
+        self.menu_list = self.get_menu()
+
         menu_content = '\t<div class="header-menu">\n\t\t<ul class="dropdown">\n'
         for sml in self.menu_list:
             current_class = 'class="current" ' if menu_item_filename == sml['filename'] else ''
-            menu_content += '\t\t\t<li><a ' + current_class + 'href="' + sml['filename'] + '.html">' + sml['name'] + '</a></li>\n'
+            menu_content += '\t\t\t<li><a ' + current_class + 'href="' + sml['filename'] + '.html">' + sml['name'] + '</a>'
+            if 'sub' in sml:
+                menu_content += self.create_submenu(sml['sub'], menu_item_filename)
+            menu_content += '</li>\n'
         menu_content += '\t\t</ul>\n\t</div><!-- .header-menu" -->\n'
 
         with open(self.html_parts_dir + '/' + 'header-menu.hp', 'w', encoding='UTF-8') as file_content:
@@ -59,4 +80,3 @@ class KubaWebsite:
 
         with open(menu_item_filename + '.html', 'w', encoding='UTF-8') as file_content:
             file_content.write(site_content)
-
