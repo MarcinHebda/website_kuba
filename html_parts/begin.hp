@@ -13,7 +13,7 @@
 	<link rel='stylesheet' href="css/header-menu.css"/>
 	<link rel='stylesheet' href="css/content.css"/>
 	<link rel='stylesheet' href="css/footer.css"/>
-	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:300i|Ubuntu:100" rel="stylesheet">
 
 </head>
 <body>

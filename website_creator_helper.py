@@ -33,10 +33,10 @@ class KubaWebsite:
         menu_content = '\t<div class="header-menu">\n\t\t<ul class="dropdown">\n'
         for sml in self.menu_list:
             current_class = 'class="current" ' if menu_item_filename == sml['filename'] else ''
-            menu_content += '\t\t\t<li><a ' + current_class + 'href="' + sml['filename'] + '.html">' + sml['name'] + '</a>'
+            menu_content += '\t\t\t<li><a ' + current_class + 'href="' + sml['filename'] + '.html">' + sml['name']
             if 'sub' in sml:
                 menu_content += self.create_submenu(sml['sub'], menu_item_filename)
-            menu_content += '</li>\n'
+            menu_content += '</a></li>\n'
         menu_content += '\t\t</ul>\n\t</div><!-- .header-menu" -->\n'
 
         with open(self.html_parts_dir + '/' + 'header-menu.hp', 'w', encoding='UTF-8') as file_content:
