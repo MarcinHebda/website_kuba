@@ -26,15 +26,21 @@ class KubaWebsite:
 
     def create_menu(self, menu_item_filename=''):
 
-        """ count of menu items have to be SEVEN! """
+        """ count of menu items have to be EIGHT! """
 
         self.menu_list = self.get_menu()
 
         menu_content = '\t<div class="header-menu">\n\t\t<ul class="dropdown">\n'
         for sml in self.menu_list:
             current_class = 'class="current" ' if menu_item_filename == sml['filename'] else ''
-            menu_content += '\t\t\t<li><a ' + current_class + 'href="' + sml['filename'] + '.html">' + sml['name']
-            if 'sub' in sml:
+            if 'sub' not in sml:
+                menu_content += '\t\t\t<li><a ' + current_class + 'href="' + sml['filename'] + '.html">' + sml['name']
+            else:
+                current_parent_class = 'class="has_child'
+                for sml_sub in sml['sub']:
+                    current_parent_class += ' current' if menu_item_filename == sml_sub['filename'] else ''
+                current_parent_class += '"'
+                menu_content += '\t\t\t<li><a ' + current_parent_class + '>' + sml['name']
                 menu_content += self.create_submenu(sml['sub'], menu_item_filename)
             menu_content += '</a></li>\n'
         menu_content += '\t\t</ul>\n\t</div><!-- .header-menu" -->\n'
@@ -45,10 +51,10 @@ class KubaWebsite:
 
     def create_content_part(self, menu_item_filename):
 
-        site_content = '\t<div class="content">\n\t\t<div class="content-inner">\n\t\t\t<div class="column-left">\n\t\t\t\t<img src="img/content_column_left_01.png" />\n\t\t\t\t<img src="img/content_column_left_02.png" />\n\t\t\t\t<img src="img/content_column_left_03.png" />\n\t\t\t</div><!-- .column-left -->\n\t\t\t<div class="column-center">\n\n'
+        site_content = '\t<div class="content">\n\t\t<div class="content-inner">\n\t\t\t<div class="column-left">\n\t\t\t\t<img src="img/content_column_left_01_scaled_outline.png" />\n\t\t\t\t<img src="img/content_column_left_02_scaled_outline.png" />\n\t\t\t\t<img src="img/content_column_left_03_scaled_outline.png" />\n\t\t\t</div><!-- .column-left -->\n\t\t\t<div class="column-center">\n\n'
         with open(self.content_dir + '/' + menu_item_filename + '.sc', 'r', encoding="UTF-8") as file_content:
             site_content += file_content.read()
-        site_content += '\n\t\t\t</div><!-- .column-center -->\n\t\t\t<div class="column-right">\n\t\t\t\t<img class="photo" src="img/content_column_right_01.jpg" />\n\t\t\t\t<img class="photo" src="img/content_column_right_01.jpg" />\n\t\t\t</div><!-- column-right -->\n\t\t</div><!-- .content-inner -->\n\t</div><!-- .content -->\n'
+        site_content += '\n\t\t\t</div><!-- .column-center -->\n\t\t\t<div class="column-right">\n\t\t\t\t<img class="photo" src="img/content_column_right_01.jpg" />\n\t\t\t\t<img class="photo" src="img/content_column_right_02.jpg" />\n\t\t\t</div><!-- column-right -->\n\t\t</div><!-- .content-inner -->\n\t</div><!-- .content -->\n'
 
         with open(self.html_parts_dir + '/' + 'content.hp', 'w', encoding="UTF-8") as file_content:
             file_content.write(site_content)

@@ -13,15 +13,16 @@
 }
 .content-inner .column-left {
 	display: table-cell;
-	width: 14%;
+	width: 12%;
 	vertical-align: top;
 }
 .content-inner .column-left img {
     margin-bottom: 40px;
+	margin-top: 20px;
 }
 .content-inner .column-center {
 	display: table-cell;
-	width: 66%;
+	width: 68%;
 	vertical-align: top;
     padding: 30px 30px 0 30px;
 }

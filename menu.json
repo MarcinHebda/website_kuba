@@ -40,5 +40,9 @@
     {
         "name": "KONTAKT",
         "filename": "kontakt"
+    },
+    {
+        "name": "GALERIA",
+        "filename": "galeria"
     }
 ]
