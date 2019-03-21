@@ -13,7 +13,11 @@
 	<link rel='stylesheet' href="css/header-menu.css"/>
 	<link rel='stylesheet' href="css/content.css"/>
 	<link rel='stylesheet' href="css/footer.css"/>
+	<link rel='stylesheet' href="css/gallery.css"/>
+
     <link href="https://fonts.googleapis.com/css?family=Merriweather:300i|Ubuntu:100" rel="stylesheet">
+
+    <link href='simplelightbox-master/dist/simplelightbox.min.css' rel='stylesheet' type='text/css'>
 
 </head>
 <body>

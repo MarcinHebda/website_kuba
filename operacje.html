@@ -13,7 +13,11 @@
 	<link rel='stylesheet' href="css/header-menu.css"/>
 	<link rel='stylesheet' href="css/content.css"/>
 	<link rel='stylesheet' href="css/footer.css"/>
+	<link rel='stylesheet' href="css/gallery.css"/>
+
     <link href="https://fonts.googleapis.com/css?family=Merriweather:300i|Ubuntu:100" rel="stylesheet">
+
+    <link href='simplelightbox-master/dist/simplelightbox.min.css' rel='stylesheet' type='text/css'>
 
 </head>
 <body>
@@ -75,7 +79,14 @@
 			</div><!-- .column-left -->
 			<div class="column-center">
 
-<p> treść strony </p>
+<p>W październiku 2013 roku Kuba przeszedł bardzo poważną operację w Paley Advanced Limb Lengthening Institute w West Palm Beach na Florydzie. Jego staw biodrowy został zrekonstruowany, przeprowadzono osteotomię miednicy i kości biodrowej, wydłużono ścięgna i mięśnie oraz odblokowano nerwy skórne. Wykonano następujące procedury operacyjne: osteotomię lewej kości udowej i kości biodrowej (superhip) z wewnętrzną stabilizacją, rekonstrukcję stawu kolanowego (superknee), wprowadzenie do lewej szyjki kości udowej białka morfogenetycznego, wydłużenie ścięgien i mięśni oraz rekonstrukcję więzadeł krzyżowych. Była to jedyna szansa, by Kubuś mógł odzyskać całkowitą ruchową sprawność i w przyszłości miał obie nóżki równej długości. Ta operacja, którą przeprowadził dr Dror Paley, była dla Kuby pierwszą i najważniejszą, bez której niemożliwe byłoby wykonanie kolejnych zabiegów. Zaufaliśmy lekarzowi, jedynemu na świecie specjaliście w tej dziedzinie. Kuba spędził w szpitalu 4 dni. Potem zaczęła się jego sześciotygodniowa rehabilitacja. Następnie, po wykonaniu zdjęcia RTG oraz upewnieniu się, iż wszystko jest w jak najlepszym porządku, zdjęto Kubie gips i mogliśmy wracać do domu, do Polski.</p>
+<div class="gallery">
+    <a href="galleries/operacje/image1.jpg"><img src="galleries/operacje/thumbs/thumb1.jpg" alt=""/></a>
+    <a href="galleries/operacje/image2.jpg"><img src="galleries/operacje/thumbs/thumb2.jpg" alt=""/></a>
+    <a href="galleries/operacje/image3.jpg"><img src="galleries/operacje/thumbs/thumb3.jpg" alt=""/></a>
+    <a href="galleries/operacje/image4.jpg"><img src="galleries/operacje/thumbs/thumb4.jpg" alt=""/></a>
+    <div class="clear"></div>
+</div>
 			</div><!-- .column-center -->
 			<div class="column-right">
 				<img class="photo" src="img/content_column_right_01.jpg" />
@@ -95,5 +106,55 @@
 
 
 </div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript" src="simplelightbox-master/dist/simple-lightbox.js"></script>
+<script>
+	$(function(){
+		var $gallery = $('.gallery a').simpleLightbox();
+
+		$gallery.on('show.simplelightbox', function(){
+			console.log('Requested for showing');
+		})
+		.on('shown.simplelightbox', function(){
+			console.log('Shown');
+		})
+		.on('close.simplelightbox', function(){
+			console.log('Requested for closing');
+		})
+		.on('closed.simplelightbox', function(){
+			console.log('Closed');
+		})
+		.on('change.simplelightbox', function(){
+			console.log('Requested for change');
+		})
+		.on('next.simplelightbox', function(){
+			console.log('Requested for next');
+		})
+		.on('prev.simplelightbox', function(){
+			console.log('Requested for prev');
+		})
+		.on('nextImageLoaded.simplelightbox', function(){
+			console.log('Next image loaded');
+		})
+		.on('prevImageLoaded.simplelightbox', function(){
+			console.log('Prev image loaded');
+		})
+		.on('changed.simplelightbox', function(){
+			console.log('Image changed');
+		})
+		.on('nextDone.simplelightbox', function(){
+			console.log('Image changed to next');
+		})
+		.on('prevDone.simplelightbox', function(){
+			console.log('Image changed to prev');
+		})
+		.on('error.simplelightbox', function(e){
+			console.log('No image found, go to the next/prev');
+			console.log(e);
+		});
+	});
+</script>
+
 </body>
 </html>

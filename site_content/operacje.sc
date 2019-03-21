@@ -1,1 +1,8 @@
-<p> treść strony </p>
+<p>W październiku 2013 roku Kuba przeszedł bardzo poważną operację w Paley Advanced Limb Lengthening Institute w West Palm Beach na Florydzie. Jego staw biodrowy został zrekonstruowany, przeprowadzono osteotomię miednicy i kości biodrowej, wydłużono ścięgna i mięśnie oraz odblokowano nerwy skórne. Wykonano następujące procedury operacyjne: osteotomię lewej kości udowej i kości biodrowej (superhip) z wewnętrzną stabilizacją, rekonstrukcję stawu kolanowego (superknee), wprowadzenie do lewej szyjki kości udowej białka morfogenetycznego, wydłużenie ścięgien i mięśni oraz rekonstrukcję więzadeł krzyżowych. Była to jedyna szansa, by Kubuś mógł odzyskać całkowitą ruchową sprawność i w przyszłości miał obie nóżki równej długości. Ta operacja, którą przeprowadził dr Dror Paley, była dla Kuby pierwszą i najważniejszą, bez której niemożliwe byłoby wykonanie kolejnych zabiegów. Zaufaliśmy lekarzowi, jedynemu na świecie specjaliście w tej dziedzinie. Kuba spędził w szpitalu 4 dni. Potem zaczęła się jego sześciotygodniowa rehabilitacja. Następnie, po wykonaniu zdjęcia RTG oraz upewnieniu się, iż wszystko jest w jak najlepszym porządku, zdjęto Kubie gips i mogliśmy wracać do domu, do Polski.</p>
+<div class="gallery">
+    <a href="galleries/operacje/image1.jpg"><img src="galleries/operacje/thumbs/thumb1.jpg" alt=""/></a>
+    <a href="galleries/operacje/image2.jpg"><img src="galleries/operacje/thumbs/thumb2.jpg" alt=""/></a>
+    <a href="galleries/operacje/image3.jpg"><img src="galleries/operacje/thumbs/thumb3.jpg" alt=""/></a>
+    <a href="galleries/operacje/image4.jpg"><img src="galleries/operacje/thumbs/thumb4.jpg" alt=""/></a>
+    <div class="clear"></div>
+</div>
