@@ -2,69 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4675cb18-6410-47d5-8981-fa9dbfb703aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/gallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/operacje/image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/operacje/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/operacje/image3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/operacje/image4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/operacje/image5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/operacje/image6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumb1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumb2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumb3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumb4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumb5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumb6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/demo.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/image10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/image11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/image12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/image3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/image4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/image5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/image6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/image7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/image8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/image9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/thumbs/thumb1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/thumbs/thumb10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/thumbs/thumb11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/thumbs/thumb12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/thumbs/thumb2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/thumbs/thumb3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/thumbs/thumb4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/thumbs/thumb5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/thumbs/thumb6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/thumbs/thumb7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/thumbs/thumb8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/images/thumbs/thumb9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/dist/simple-lightbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/dist/simple-lightbox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/dist/simplelightbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/dist/simplelightbox.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/dist/simplelightbox.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simplelightbox-master/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/co-dalej.html" beforeDir="false" afterPath="$PROJECT_DIR$/co-dalej.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galeria.html" beforeDir="false" afterPath="$PROJECT_DIR$/galeria.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_parts/begin.hp" beforeDir="false" afterPath="$PROJECT_DIR$/html_parts/begin.hp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_parts/end.hp" beforeDir="false" afterPath="$PROJECT_DIR$/html_parts/end.hp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leczenie.html" beforeDir="false" afterPath="$PROJECT_DIR$/leczenie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gallery.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/image4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/image5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/image6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumb1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumb2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumb3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumb4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumb5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumb6.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/operacje.html" beforeDir="false" afterPath="$PROJECT_DIR$/operacje.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opis-choroby.html" beforeDir="false" afterPath="$PROJECT_DIR$/opis-choroby.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/podaruj-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/podaruj-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/podziekowania.html" beforeDir="false" afterPath="$PROJECT_DIR$/podziekowania.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rehabilitacja.html" beforeDir="false" afterPath="$PROJECT_DIR$/rehabilitacja.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/site_content/operacje.sc" beforeDir="false" afterPath="$PROJECT_DIR$/site_content/operacje.sc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,39 +26,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/kuba$website_creator.coverage" NAME="website_creator Coverage Results" MODIFIED="1553179604463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kuba$website_creator.coverage" NAME="website_creator Coverage Results" MODIFIED="1553265712830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kuba$website_creator_helper.coverage" NAME="website_creator_helper Coverage Results" MODIFIED="1552487019869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site_content/operacje.sc">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html_parts/begin.hp">
+        <entry file="file://$PROJECT_DIR$/css/gallery.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+            <state relative-caret-position="18">
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/gallery.css">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            <state relative-caret-position="722">
+              <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html_parts/footer.hp">
+        <entry file="file://$PROJECT_DIR$/site_content/index.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+            <state>
+              <caret column="568" selection-start-column="568" selection-end-column="568" />
             </state>
           </provider>
         </entry>
@@ -115,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/html_parts/end.hp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -150,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/normalize.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
+            <state relative-caret-position="972">
               <caret line="54" column="8" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="8" />
             </state>
           </provider>
@@ -222,8 +178,8 @@
         <option value="$PROJECT_DIR$/website_creator_helper.py" />
         <option value="$PROJECT_DIR$/html_parts/end.hp" />
         <option value="$PROJECT_DIR$/html_parts/begin.hp" />
-        <option value="$PROJECT_DIR$/site_content/operacje.sc" />
         <option value="$PROJECT_DIR$/css/gallery.css" />
+        <option value="$PROJECT_DIR$/site_content/operacje.sc" />
       </list>
     </option>
   </component>
@@ -239,10 +195,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="kuba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kuba" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="kuba" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -251,6 +210,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.website_creator">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/kuba/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -332,8 +292,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.website_creator" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Python.website_creator" />
         <item itemvalue="JavaScript Debug.main.html" />
         <item itemvalue="JavaScript Debug.rehabilitacja.html" />
         <item itemvalue="Python.website_creator_helper" />
@@ -367,7 +327,9 @@
       <workItem from="1552909242065" duration="6428000" />
       <workItem from="1552921089032" duration="126000" />
       <workItem from="1552980737043" duration="11383000" />
-      <workItem from="1553174519468" duration="4358000" />
+      <workItem from="1553174519468" duration="4552000" />
+      <workItem from="1553238309585" duration="5032000" />
+      <workItem from="1553265525510" duration="247000" />
     </task>
     <task id="LOCAL-00001" summary="header layout">
       <created>1552301509569</created>
@@ -411,21 +373,29 @@
       <option name="project" value="LOCAL" />
       <updated>1552992499736</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add &quot;simplelightbox&quot; image lightbox">
+      <created>1553180150704</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553180150704</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93931000" />
+    <option name="totallyTimeSpent" value="99404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1307364" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13180363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17864923" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17864923" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -453,7 +423,8 @@
     <MESSAGE value="content manager system - two levels menu" />
     <MESSAGE value="design layout - colors, fonts" />
     <MESSAGE value="design layout - header, photos, images" />
-    <option name="LAST_COMMIT_MESSAGE" value="design layout - header, photos, images" />
+    <MESSAGE value="add &quot;simplelightbox&quot; image lightbox" />
+    <option name="LAST_COMMIT_MESSAGE" value="add &quot;simplelightbox&quot; image lightbox" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/style.css" />
@@ -548,13 +519,6 @@
         <state relative-caret-position="-648" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-166">
-          <caret line="69" column="37" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/website_creator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -599,13 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site_content/index.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="568" selection-start-column="568" selection-end-column="568" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/header.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1548">
@@ -627,10 +584,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html_parts/header.hp">
+    <entry file="file://$PROJECT_DIR$/html_parts/begin.hp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+        <state relative-caret-position="270">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -641,10 +598,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/site_content/operacje.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/gallery.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site_content/index.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="568" selection-start-column="568" selection-end-column="568" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html_parts/end.hp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -655,10 +633,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html_parts/header.hp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/content.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -669,27 +661,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/normalize.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="54" column="8" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html_parts/begin.hp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_content/operacje.sc">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/gallery.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="722">
+          <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
         </state>
       </provider>
     </entry>
