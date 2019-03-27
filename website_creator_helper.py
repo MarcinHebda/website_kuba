@@ -51,7 +51,7 @@ class KubaWebsite:
 
     def create_content_part(self, menu_item_filename):
 
-        site_content = '\t<div class="content">\n\t\t<div class="content-inner">\n\t\t\t<div class="column-left">\n\t\t\t\t<img src="img/content_column_left_01_scaled_outline.png" />\n\t\t\t\t<img src="img/content_column_left_02_scaled_outline.png" />\n\t\t\t\t<img src="img/content_column_left_03_scaled_outline.png" />\n\t\t\t</div><!-- .column-left -->\n\t\t\t<div class="column-center">\n\n'
+        site_content = '\t<div class="content">\n\t\t<div class="content-inner">\n\t\t\t<div class="column-left">\n\t\t\t\t<a target="_blank" href="https://dzieciom.pl/"><img src="img/content_column_left_01_scaled_outline.png" /></a>\n\t\t\t\t<a target="_blank" href="https://www.facebook.com/DarSerca/"><img src="img/content_column_left_02_scaled_outline.png" /></a>\n\t\t\t\t<img src="img/content_column_left_03_scaled_outline.png" />\n\t\t\t</div><!-- .column-left -->\n\t\t\t<div class="column-center">\n\n'
         with open(self.content_dir + '/' + menu_item_filename + '.sc', 'r', encoding="UTF-8") as file_content:
             site_content += file_content.read()
         site_content += '\n\t\t\t</div><!-- .column-center -->\n\t\t\t<div class="column-right">\n\t\t\t\t<img class="photo" src="img/content_column_right_01.jpg" />\n\t\t\t\t<img class="photo" src="img/content_column_right_02.jpg" />\n\t\t\t</div><!-- column-right -->\n\t\t</div><!-- .content-inner -->\n\t</div><!-- .content -->\n'
