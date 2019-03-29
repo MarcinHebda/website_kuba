@@ -24,7 +24,7 @@
 	border-right: 1px solid #8cb0ae;
 	text-align: center;
 	background-color: #9fc4c2;
-	width: 12.50%
+	width: 14.28%
 }
 .header-menu ul.dropdown li:hover ul.dropdown-content {
 	display: block;
@@ -54,18 +54,20 @@
 	text-decoration: underline;
 }
 .header-menu ul.dropdown-content {
-  display: none;
-  position: absolute;
-  z-index: 1;
-  background-color: #373737;
-  padding:0;
+	display: none;
+	position: absolute;
+	z-index: 1;
+	background-color: #373737;
+	padding:0;
 }
 .header-menu ul.dropdown-content li {
-  border-right: none;
+	border-right: none;
 	text-align: left;
-	width: 100%;
+	width: 130%;
+
 }
 .header-menu ul.dropdown-content a {
 	padding-left: 15px;
 	padding-right: 5px;
+	overflow: visible;
 }

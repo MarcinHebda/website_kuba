@@ -1,17 +1,12 @@
 	<div class="content">
 		<div class="content-inner">
 			<div class="column-left">
-				<a target="_blank" href="https://dzieciom.pl/"><img src="img/content_column_left_01_scaled_outline.png" /></a>
-				<a target="_blank" href="https://www.facebook.com/DarSerca/"><img src="img/content_column_left_02_scaled_outline.png" /></a>
-				<img src="img/content_column_left_03_scaled_outline.png" />
 			</div><!-- .column-left -->
 			<div class="column-center">
 
 <p> treść strony </p>
 			</div><!-- .column-center -->
 			<div class="column-right">
-				<img class="photo" src="img/content_column_right_01.jpg" />
-				<img class="photo" src="img/content_column_right_02.jpg" />
 			</div><!-- column-right -->
 		</div><!-- .content-inner -->
 	</div><!-- .content -->

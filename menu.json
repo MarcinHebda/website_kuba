@@ -8,13 +8,13 @@
         "filename": "opis-choroby"
     },
     {
-        "name": "LECZENIE",
-        "filename": "leczenie"
-    },
-    {
         "name": "PO ZDROWIE",
         "filename": "po-zdrowie",
         "sub": [
+            {
+                "name": "SZANSA NA WYLECZENIE",
+                "filename": "szansa-na-wyleczenie"
+            },
             {
                 "name": "OPERACJE",
                 "filename": "operacje"
