@@ -20,8 +20,8 @@
 	width: 12%;
 }
 .content-inner .column-left img {
-    margin-bottom: 40px;
-	margin-top: 20px;
+    margin-bottom: 5px;
+	margin-top: 5px;
 }
 .content-inner .column-center {
 	display: table-cell;
@@ -41,5 +41,6 @@
 	width: 20%;
 }
 .content-inner .column-right img {
+    margin-top: 20px;
     margin-bottom: 20px;
 }

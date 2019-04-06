@@ -2,5 +2,7 @@
 <p align="justify">Niestety, leczenie w&nbsp;USA wiąże się z&nbsp;olbrzymimi nakładami finansowymi. Z&nbsp;góry dziękujemy wszystkim, którzy mogą i&nbsp;chcą nam pomóc. Wiemy, że życie nie ma ceny, ale coraz częściej potrzeba bardzo dużo pieniędzy, by o&nbsp;to życie i&nbsp;zdrowie walczyć.</p>
 <p align="justify">Moją ogromną szansą na normalne życie jest Państwa zrozumienie i życzliwość.</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 <p align="center">Serdecznie pozdrawiamy i&nbsp;prosimy o&nbsp;pomoc!</p>
+<p>&nbsp;</p>
 <p align="center">Kuba z&nbsp;Rodzicami</p>

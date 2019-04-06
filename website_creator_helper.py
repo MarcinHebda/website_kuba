@@ -52,7 +52,7 @@ class KubaWebsite:
     def create_content_part(self, menu_item_filename):
 
         if menu_item_filename == 'index':
-            site_content = '\t<div class="content">\n\t\t<div class="content-inner">\n\t\t\t<div class="column-left main-page">\n\t\t\t\t<a target="_blank" href="https://dzieciom.pl/"><img src="img/content_column_left_01_scaled_outline.png" /></a>\n\t\t\t\t<a target="_blank" href="https://www.facebook.com/DarSerca/"><img src="img/content_column_left_02_scaled_outline.png" /></a>\n\t\t\t\t<img src="img/content_column_left_03_scaled_outline.png" />\n\t\t\t</div><!-- .column-left -->\n\t\t\t<div class="column-center main-page">\n\n'
+            site_content = '\t<div class="content">\n\t\t<div class="content-inner">\n\t\t\t<div class="column-left main-page">\n\t\t\t\t<a target="_blank" href="https://dzieciom.pl/"><img src="img/content_column_left_01_scaled_outline.png" /></a>\n\t\t\t\t<a target="_blank" href="https://www.facebook.com/DarSerca/"><img src="img/content_column_left_02_scaled_outline.png" /></a>\n\t\t\t\t<img src="img/content_column_left_03_scaled_outline.png" />\n\t\t\t\t<a target="_blank" href="http://fundacjakochajzycie.pl/"><img src="img/content_column_left_04_scaled.png" /></a>\n\t\t\t</div><!-- .column-left -->\n\t\t\t<div class="column-center main-page">\n\n'
         else:
             site_content = '\t<div class="content">\n\t\t<div class="content-inner">\n\t\t\t<div class="column-left">\n\t\t\t</div><!-- .column-left -->\n\t\t\t<div class="column-center">\n\n'
         with open(self.content_dir + '/' + menu_item_filename + '.sc', 'r', encoding="UTF-8") as file_content:

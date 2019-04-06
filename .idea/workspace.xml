@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4675cb18-6410-47d5-8981-fa9dbfb703aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/site_content/szansa-na-wyleczenie.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/co-dalej.html" beforeDir="false" afterPath="$PROJECT_DIR$/co-dalej.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/content.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/header-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header-menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galeria.html" beforeDir="false" afterPath="$PROJECT_DIR$/galeria.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_parts/content.hp" beforeDir="false" afterPath="$PROJECT_DIR$/html_parts/content.hp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_parts/header-menu.hp" beforeDir="false" afterPath="$PROJECT_DIR$/html_parts/header-menu.hp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leczenie.html" beforeDir="false" afterPath="$PROJECT_DIR$/leczenie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu.json" beforeDir="false" afterPath="$PROJECT_DIR$/menu.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operacje.html" beforeDir="false" afterPath="$PROJECT_DIR$/operacje.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opis-choroby.html" beforeDir="false" afterPath="$PROJECT_DIR$/opis-choroby.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/podaruj-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/podaruj-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/podziekowania.html" beforeDir="false" afterPath="$PROJECT_DIR$/podziekowania.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rehabilitacja.html" beforeDir="false" afterPath="$PROJECT_DIR$/rehabilitacja.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_content/index.sc" beforeDir="false" afterPath="$PROJECT_DIR$/site_content/index.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/website_creator_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/website_creator_helper.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,6 +17,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/kuba$website_creator.coverage" NAME="website_creator Coverage Results" MODIFIED="1553865465261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kuba$website_creator_helper.coverage" NAME="website_creator_helper Coverage Results" MODIFIED="1552487019869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/website_kuba$website_creator.coverage" NAME="website_creator Coverage Results" MODIFIED="1554538866543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -48,10 +36,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/website_creator.py">
+        <entry file="file://$PROJECT_DIR$/css/content.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+            <state relative-caret-position="434">
+              <caret line="36" column="15" lean-forward="true" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -59,44 +47,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/website_creator_helper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="54" column="535" lean-forward="true" selection-start-line="54" selection-start-column="535" selection-end-line="54" selection-end-column="535" />
+            <state relative-caret-position="445">
+              <caret line="54" column="560" selection-start-line="54" selection-start-column="560" selection-end-line="54" selection-end-column="560" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/content_column_left_01.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/content_column_left_01_scaled_outline.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html_parts/content.hp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/content.css">
+        <entry file="file://$PROJECT_DIR$/site_content/index.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/header-menu.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-358">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/menu.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="108">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -182,7 +162,6 @@
         <option value="$PROJECT_DIR$/html_parts/footer.hp" />
         <option value="$PROJECT_DIR$/css/header.css" />
         <option value="$PROJECT_DIR$/site_content/galeria.sc" />
-        <option value="$PROJECT_DIR$/site_content/index.sc" />
         <option value="$PROJECT_DIR$/html_parts/end.hp" />
         <option value="$PROJECT_DIR$/html_parts/begin.hp" />
         <option value="$PROJECT_DIR$/css/gallery.css" />
@@ -194,6 +173,7 @@
         <option value="$PROJECT_DIR$/menu.json" />
         <option value="$PROJECT_DIR$/website_creator_helper.py" />
         <option value="$PROJECT_DIR$/css/content.css" />
+        <option value="$PROJECT_DIR$/site_content/index.sc" />
       </list>
     </option>
   </component>
@@ -213,17 +193,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="kuba" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kuba" type="462c0819:PsiDirectoryNode" />
+              <item name="website_kuba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website_kuba" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="kuba" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kuba" type="462c0819:PsiDirectoryNode" />
+              <item name="website_kuba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website_kuba" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="kuba" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="website_kuba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website_kuba" type="462c0819:PsiDirectoryNode" />
+              <item name="html_parts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="website_kuba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website_kuba" type="462c0819:PsiDirectoryNode" />
+              <item name="site_content" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -256,7 +242,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="Python.website_creator">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/website_kuba/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/kuba/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -288,35 +277,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="website_creator_helper" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="kuba" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/website_creator_helper.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Python.website_creator" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.main.html" />
         <item itemvalue="JavaScript Debug.rehabilitacja.html" />
-        <item itemvalue="Python.website_creator_helper" />
       </list>
     </recent_temporary>
   </component>
@@ -357,6 +324,8 @@
       <workItem from="1553843444614" duration="3466000" />
       <workItem from="1553852856506" duration="638000" />
       <workItem from="1553860582858" duration="4684000" />
+      <workItem from="1554531739740" duration="1043000" />
+      <workItem from="1554537366320" duration="1110000" />
     </task>
     <task id="LOCAL-00001" summary="header layout">
       <created>1552301509569</created>
@@ -425,18 +394,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114603000" />
+    <option name="totallyTimeSpent" value="116756000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1920" height="1042" extended-state="6" />
+    <frame x="0" y="-1" width="1600" height="860" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1430096" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23166023" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0708061" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.11548913" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -581,13 +550,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site_content/index.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="568" selection-start-column="568" selection-end-column="568" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html_parts/end.hp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -623,13 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html_parts/content.hp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="91" selection-start-line="3" selection-start-column="91" selection-end-line="3" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html_parts/footer.hp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -653,6 +608,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rehabilitacja.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website_creator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/header-menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/content_column_left_01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/content_column_left_01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/content_column_left_01_scaled_outline.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/szansa-na-wyleczenie.html">
       <provider selected="true" editor-type-id="text-editor" />
@@ -678,45 +670,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-358">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/menu.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/header-menu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website_creator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/website_creator_helper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="54" column="535" lean-forward="true" selection-start-line="54" selection-start-column="535" selection-end-line="54" selection-end-column="535" />
+        <state relative-caret-position="445">
+          <caret line="54" column="560" selection-start-line="54" selection-start-column="560" selection-end-line="54" selection-end-column="560" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/content.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="434">
+          <caret line="36" column="15" lean-forward="true" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_parts/content.hp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site_content/index.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
