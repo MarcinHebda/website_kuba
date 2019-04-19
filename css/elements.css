@@ -18,6 +18,7 @@ img {
 }
 img.photo {
 	border: 8px solid #dfdfdc;
+	opacity: 1.0;
 }
 p {
     line-height: 22px;
