@@ -43,4 +43,6 @@
 .content-inner .column-right img {
     margin-top: 10px;
     margin-bottom: 10px;
+	border: none;
+	width: 80%;
 }
