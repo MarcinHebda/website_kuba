@@ -38,6 +38,19 @@
     <div class="clear"></div>
 </div>
 
+
+<table>
+<tr>
+
+<table>
+    <tr>
+        <td width="62%" align="justify">Wyrazy wdzięczności kierujemy do Fundacji Dar Serca - Gift From The Heart Foundation - z Chicago. Podczas obu pobytów w USA Kuba znajdował się pod opieką fundacji, za co z całego serca, a szczególnie Pani Izabeli Rybak, dziękujemy za okazaną pomoc i ogromne wsparcie.</td>
+        <td width="3%"></td>
+        <td width="35%"><img src="img/operacje_1.jpg" /></td>
+    </tr>
+</table>
+
+
 <p>&nbsp;</p>
 <h3>2018 rok, sierpień - październik</h3>
 <p align="justify">W&nbsp;sierpniu 2018 roku Kuba przeszedł potrójną osteotomię miednicy PAO, zostało usunięte zespolenie z&nbsp;bliższego końca kości udowej oraz wykonano osteotomię podkrętarzową lewej kości udowej ze stabilizacją płytką Blade Plate Orthopediatrics. Operacja została przeprowadzona przez dr.&nbsp;Drora&nbsp;Paleya w&nbsp;Carolina Medical Center w&nbsp;Warszawie. Nigdy by się to nie udało, gdyby nie grupa lekarzy, przede wszystkim doktorów Michała Deszczyńskiego i&nbsp;Tomasza Albrewczyńskiego, oraz współorganizatorów wielkiego przedsięwzięcia, które stało się milowym krokiem Fundacji "Kochaj Życie" na drodze do otwarcia European Paley Institute w&nbsp;Polsce. Na przełomie sierpnia i&nbsp;września 2018 roku ponad 20 operacji wykonanych w&nbsp;Carolina Medical Center w&nbsp;Warszawie zakończyło się sukcesem. Wyrazy najgłębszego uznania i&nbsp;podziękowania za profesjonalizm i&nbsp;oddanie dla wielkiej sprawy.</p>

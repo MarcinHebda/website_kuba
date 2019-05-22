@@ -24,5 +24,8 @@ p {
     line-height: 22px;
     text-indent: 20px;
     opacity: 0.8;
-
+}
+td {
+	font-family: 'Montserrat', sans-serif;
+    line-height: 30px;
 }
