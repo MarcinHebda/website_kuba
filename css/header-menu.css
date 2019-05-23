@@ -4,6 +4,7 @@
 	width: 100%;
 	background-color: #9fc4c2;
 	font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
 }
 .header-menu ul.dropdown {
 	display: block;

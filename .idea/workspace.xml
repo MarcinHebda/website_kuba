@@ -3,20 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4675cb18-6410-47d5-8981-fa9dbfb703aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/co-dalej.html" beforeDir="false" afterPath="$PROJECT_DIR$/co-dalej.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/elements.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/elements.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galeria.html" beforeDir="false" afterPath="$PROJECT_DIR$/galeria.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_parts/begin.hp" beforeDir="false" afterPath="$PROJECT_DIR$/html_parts/begin.hp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/operacje_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/operacje_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operacje.html" beforeDir="false" afterPath="$PROJECT_DIR$/operacje.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opis-choroby.html" beforeDir="false" afterPath="$PROJECT_DIR$/opis-choroby.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/podaruj-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/podaruj-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/podziekowania.html" beforeDir="false" afterPath="$PROJECT_DIR$/podziekowania.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rehabilitacja.html" beforeDir="false" afterPath="$PROJECT_DIR$/rehabilitacja.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_content/operacje.sc" beforeDir="false" afterPath="$PROJECT_DIR$/site_content/operacje.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/szansa-na-wyleczenie.html" beforeDir="false" afterPath="$PROJECT_DIR$/szansa-na-wyleczenie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/header-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header-menu.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site_content/operacje.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
+            <state relative-caret-position="609">
               <caret line="46" selection-start-line="46" selection-end-line="46" />
             </state>
           </provider>
@@ -75,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/header.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
+            <state relative-caret-position="558">
               <caret line="31" column="8" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="8" />
             </state>
           </provider>
@@ -90,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/header-menu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-end-line="5" selection-end-column="38" />
+            <state relative-caret-position="108">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -181,7 +168,6 @@
         <option value="$PROJECT_DIR$/site_content/galeria.sc" />
         <option value="$PROJECT_DIR$/html_parts/end.hp" />
         <option value="$PROJECT_DIR$/html_parts/content.hp" />
-        <option value="$PROJECT_DIR$/css/header-menu.css" />
         <option value="$PROJECT_DIR$/menu.json" />
         <option value="$PROJECT_DIR$/website_creator_helper.py" />
         <option value="$PROJECT_DIR$/site_content/index.sc" />
@@ -196,6 +182,7 @@
         <option value="$PROJECT_DIR$/html_parts/begin.hp" />
         <option value="$PROJECT_DIR$/css/elements.css" />
         <option value="$PROJECT_DIR$/site_content/operacje.sc" />
+        <option value="$PROJECT_DIR$/css/header-menu.css" />
       </list>
     </option>
   </component>
@@ -211,7 +198,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kuba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kuba" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kuba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kuba" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -351,7 +353,8 @@
       <workItem from="1557640135413" duration="599000" />
       <workItem from="1558538336316" duration="1094000" />
       <workItem from="1558541890154" duration="4038000" />
-      <workItem from="1558585126492" duration="2428000" />
+      <workItem from="1558585126492" duration="2453000" />
+      <workItem from="1558588574568" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="header layout">
       <created>1552301509569</created>
@@ -444,21 +447,29 @@
       <option name="project" value="LOCAL" />
       <updated>1558542401099</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="synchronization">
+      <created>1558587557015</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1558587557015</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138875000" />
+    <option name="totallyTimeSpent" value="138921000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22838847" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23105656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.07298475" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.07298475" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -676,10 +687,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html_parts/begin.hp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/content.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
           <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/elements.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -711,38 +743,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/header.css">
+    <entry file="file://$PROJECT_DIR$/site_content/operacje.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="8" />
+        <state relative-caret-position="609">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/header-menu.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html_parts/begin.hp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/elements.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_content/operacje.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
