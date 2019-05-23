@@ -44,9 +44,9 @@
 
 <table>
     <tr>
-        <td width="62%" align="justify">Wyrazy wdzięczności kierujemy do Fundacji Dar Serca - Gift From The Heart Foundation - z Chicago. Podczas obu pobytów w USA Kuba znajdował się pod opieką fundacji, za co z całego serca, a szczególnie Pani Izabeli Rybak, dziękujemy za okazaną pomoc i ogromne wsparcie.</td>
+        <td width="53%" align="justify">Wyrazy wdzięczności kierujemy do Fundacji Dar Serca - Gift From The Heart Foundation - z&nbsp;Chicago. Podczas obu pobytów w&nbsp;USA Kuba znajdował się pod opieką fundacji, za co z&nbsp;całego serca, a&nbsp;szczególnie Pani Izabeli Rybak, dziękujemy za okazaną pomoc i&nbsp;ogromne wsparcie.</td>
         <td width="3%"></td>
-        <td width="35%"><img src="img/operacje_1.jpg" /></td>
+        <td width="44%"><img src="img/operacje_1.jpg" /></td>
     </tr>
 </table>
 
