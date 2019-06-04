@@ -33,3 +33,7 @@ td {
     line-height: 30px;
 	color: #515151;
 }
+ul, ol, dl {
+    line-height: 22px;
+    opacity: 0.8;
+}
