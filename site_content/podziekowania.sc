@@ -14,3 +14,11 @@
     <span>&nbsp;&nbsp;&nbsp;</span>
     <img valign="middle" height="100" src="img/content_column_left_03_scaled_outline.png" />
 <p>
+<p>&nbsp;</p>
+<div class="gallery">
+    <a href="galleries/podziekowania/imageA01.jpg"><img src="galleries/podziekowania/thumbs/thumbA01.jpg" alt="" title="Podziękowania"/></a>
+    <a href="galleries/podziekowania/imageA02.jpg"><img src="galleries/podziekowania/thumbs/thumbA02.jpg" alt="" title="Podziękowania"/></a>
+    <a href="galleries/podziekowania/imageA03.jpg"><img src="galleries/podziekowania/thumbs/thumbA03.jpg" alt="" title="Podziękowania"/></a>
+    <a href="galleries/podziekowania/imageA04.jpg"><img src="galleries/podziekowania/thumbs/thumbA04.jpg" alt="" title="Podziękowania"/></a>
+    <div class="clear"></div>
+</div>

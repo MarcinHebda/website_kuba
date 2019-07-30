@@ -1,84 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4675cb18-6410-47d5-8981-fa9dbfb703aa" name="Default Changelist" comment="&quot;opis choroby&quot;">
-      <change afterPath="$PROJECT_DIR$/galleries/co_dalej/imageA01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/co_dalej/imageA02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/co_dalej/imageA03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/co_dalej/imageA04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/co_dalej/thumbs/thumbA01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/co_dalej/thumbs/thumbA02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/co_dalej/thumbs/thumbA03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/galleries/co_dalej/thumbs/thumbA04.jpg" afterDir="false" />
+    <list default="true" id="4675cb18-6410-47d5-8981-fa9dbfb703aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/galleries/operacje/imageC06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/podziekowania/imageA01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/podziekowania/imageA02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/podziekowania/imageA03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/podziekowania/imageA04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/podziekowania/thumbs/thumbA01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/podziekowania/thumbs/thumbA02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/podziekowania/thumbs/thumbA03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/podziekowania/thumbs/thumbA04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageA01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageA02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageA03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageA04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageB01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageB02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageB03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageB04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageC01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageC02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageC03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageC04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageD01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageD02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageD03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageD04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageE01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageE02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageE03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/imageE04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbA01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbA02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbA03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbA04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbB01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbB02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbB03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbB04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbC01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbC02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbC03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbC04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbD01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbD02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbD03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbD04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbE01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbE02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbE03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galleries/rehabilitacja/thumbs/thumbE04.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/co-dalej.html" beforeDir="false" afterPath="$PROJECT_DIR$/co-dalej.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageA01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageA01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageA02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageA02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageA03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageA03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageA04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageA04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageA05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageA05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageA06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageA06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageA07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageA07.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageA08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageA08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageA09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageA09.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageA10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageA10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageA11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageA11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageA12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageA12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageB01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageB01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageB02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageB02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageB03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageB03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageB04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageB04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageB05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageB05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageB06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageB06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageB07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageB07.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageB08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageB08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageB09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageB09.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageB10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageB10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageB11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageB11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageB12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageB12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageC01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageC01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageC02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageC02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageC03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageC03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageC04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageC04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageC05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageC05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageC06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageC06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageC02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageC01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageC03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageC02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageC04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageC03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageC05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageC04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageC06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageC05.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/galleries/operacje/imageC07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageC07.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/imageC08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/imageC08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA07.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA09.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbA12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB07.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB09.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbB12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC05.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC07.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/galleries/operacje/thumbs/thumbC08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_content/co-dalej.sc" beforeDir="false" afterPath="$PROJECT_DIR$/site_content/co-dalej.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_content/kontakt.sc" beforeDir="false" afterPath="$PROJECT_DIR$/site_content/kontakt.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operacje.html" beforeDir="false" afterPath="$PROJECT_DIR$/operacje.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/podziekowania.html" beforeDir="false" afterPath="$PROJECT_DIR$/podziekowania.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rehabilitacja.html" beforeDir="false" afterPath="$PROJECT_DIR$/rehabilitacja.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_content/operacje.sc" beforeDir="false" afterPath="$PROJECT_DIR$/site_content/operacje.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_content/podziekowania.sc" beforeDir="false" afterPath="$PROJECT_DIR$/site_content/podziekowania.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_content/rehabilitacja.sc" beforeDir="false" afterPath="$PROJECT_DIR$/site_content/rehabilitacja.sc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,9 +79,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/kuba$website_creator.coverage" NAME="website_creator Coverage Results" MODIFIED="1560417387474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kuba$website_creator.coverage" NAME="website_creator Coverage Results" MODIFIED="1564489271583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kuba$website_creator_helper.coverage" NAME="website_creator_helper Coverage Results" MODIFIED="1555656785201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/website_kuba$website_creator.coverage" NAME="website_creator Coverage Results" MODIFIED="1564244776756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/website_kuba$website_creator.coverage" NAME="website_creator Coverage Results" MODIFIED="1558546343891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -108,51 +100,41 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/co-dalej.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/galleries/operacje/imageB06.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kontakt.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2082">
-              <folding>
-                <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site_content/kontakt.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/galleries/operacje/imageB04.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site_content/opis-choroby.sc">
+        <entry file="file://$PROJECT_DIR$/galleries/operacje/imageA10.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/operacje.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="44" column="60" lean-forward="true" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="60" />
+            <state relative-caret-position="657">
+              <caret line="115" column="6" lean-forward="true" selection-start-line="98" selection-end-line="115" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leczenie.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/podziekowania.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1566" />
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html_parts/footer.hp">
+        <entry file="file://$PROJECT_DIR$/site_content/rehabilitacja.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+            <state relative-caret-position="1350">
+              <caret line="75" column="128" selection-start-line="75" selection-start-column="128" selection-end-line="75" selection-end-column="128" />
             </state>
           </provider>
         </entry>
@@ -184,11 +166,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site_content/podziekowania.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="414">
+              <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -208,6 +190,7 @@
       <find>c</find>
       <find>box-</find>
       <find>font</find>
+      <find>Paley</find>
     </findStrings>
     <replaceStrings>
       <replace>get_file_part</replace>
@@ -225,9 +208,11 @@
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/html_slices/begin.html" />
+        <option value="$PROJECT_DIR$/site_content/kontakt.sc" />
         <option value="$PROJECT_DIR$/site_content/leczenie.sc" />
         <option value="$PROJECT_DIR$/site_content/opis_choroby.sc" />
         <option value="$PROJECT_DIR$/site_content/po-zdrowie.sc" />
+        <option value="$PROJECT_DIR$/site_content/co-dalej.sc" />
         <option value="$PROJECT_DIR$/html_parts/header-menu.hp" />
         <option value="$PROJECT_DIR$/website_creator.py" />
         <option value="$PROJECT_DIR$/css/footer.css" />
@@ -242,19 +227,17 @@
         <option value="$PROJECT_DIR$/site_content/szansa-na-wyleczenie.sc" />
         <option value="$PROJECT_DIR$/css/gallery.css" />
         <option value="$PROJECT_DIR$/site_content/podaruj-1.sc" />
-        <option value="$PROJECT_DIR$/site_content/podziekowania.sc" />
         <option value="$PROJECT_DIR$/main.html" />
         <option value="$PROJECT_DIR$/html_parts/header.hp" />
         <option value="$PROJECT_DIR$/css/content.css" />
         <option value="$PROJECT_DIR$/operacje.html" />
         <option value="$PROJECT_DIR$/html_parts/begin.hp" />
-        <option value="$PROJECT_DIR$/site_content/operacje.sc" />
         <option value="$PROJECT_DIR$/css/elements.css" />
         <option value="$PROJECT_DIR$/css/header-menu.css" />
         <option value="$PROJECT_DIR$/site_content/opis-choroby.sc" />
         <option value="$PROJECT_DIR$/site_content/rehabilitacja.sc" />
-        <option value="$PROJECT_DIR$/site_content/co-dalej.sc" />
-        <option value="$PROJECT_DIR$/site_content/kontakt.sc" />
+        <option value="$PROJECT_DIR$/site_content/operacje.sc" />
+        <option value="$PROJECT_DIR$/site_content/podziekowania.sc" />
       </list>
     </option>
   </component>
@@ -271,22 +254,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="website_kuba" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website_kuba" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="website_kuba" type="b2602c69:ProjectViewProjectNode" />
-              <item name="website_kuba" type="462c0819:PsiDirectoryNode" />
-              <item name="site_content" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -433,10 +401,10 @@
       <workItem from="1559539222001" duration="8000" />
       <workItem from="1559621614806" duration="4917000" />
       <workItem from="1559629618623" duration="601000" />
-      <workItem from="1560412582274" duration="3458000" />
-      <workItem from="1563511858945" duration="2123000" />
-      <workItem from="1563519057910" duration="2197000" />
-      <workItem from="1564243250660" duration="1522000" />
+      <workItem from="1560412582274" duration="4085000" />
+      <workItem from="1561356015963" duration="1159000" />
+      <workItem from="1562562387350" duration="1303000" />
+      <workItem from="1564489001319" duration="979000" />
     </task>
     <task id="LOCAL-00001" summary="header layout">
       <created>1552301509569</created>
@@ -557,22 +525,28 @@
       <option name="project" value="LOCAL" />
       <updated>1559627703633</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="&quot;Rehabilitacja&quot; - bez zdjęć">
+      <created>1560418314034</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1560418314035</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155387000" />
+    <option name="totallyTimeSpent" value="153613000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1600" height="860" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="-1" width="1920" height="1042" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25933075" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2854856" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.066576086" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.07298475" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -606,13 +580,33 @@
     <MESSAGE value="add &quot;podziekowania&quot; content;&#10;modify main-page's right column;&#10;add facebook-link at header" />
     <MESSAGE value="synchronization" />
     <MESSAGE value="&quot;opis choroby&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;opis choroby&quot;" />
+    <MESSAGE value="&quot;Rehabilitacja&quot; - bez zdjęć" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Rehabilitacja&quot; - bez zdjęć" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/style.css" />
     <entry file="file://$PROJECT_DIR$/html_slices/head.html" />
     <entry file="file://$PROJECT_DIR$/test.html" />
     <entry file="file://$PROJECT_DIR$/html_parts/header-menu.html" />
+    <entry file="file://$PROJECT_DIR$/site_content/kontakt.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site_content/co-dalej.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontakt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html_parts/header-menu.hp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -683,9 +677,6 @@
     <entry file="file://$PROJECT_DIR$/img/podaruj_kubie_1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/podziekowania.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/site_content/index.sc">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -737,6 +728,9 @@
     <entry file="file://$PROJECT_DIR$/opis-choroby.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/leczenie.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/elements.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="666">
@@ -765,6 +759,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/site_content/opis-choroby.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html_parts/content.hp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -779,50 +780,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/galleries/operacje/imageA01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_content/operacje.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="11" selection-start-line="4" selection-end-line="19" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_content/rehabilitacja.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/galleries/co_dalej/imageA01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/galleries/co_dalej/thumbs/thumbA01.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_content/co-dalej.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/operacje.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
-          <caret line="102" column="10" selection-start-line="101" selection-end-line="115" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leczenie.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/html_parts/footer.hp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site_content/operacje.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="954">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/galleries/operacje/imageB10.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/galleries/operacje/imageB06.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/galleries/operacje/imageB04.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site_content/rehabilitacja.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="75" column="128" selection-start-line="75" selection-start-column="128" selection-end-line="75" selection-end-column="128" />
         </state>
       </provider>
     </entry>
@@ -847,38 +831,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/galleries/operacje/imageA10.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/operacje.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="115" column="6" lean-forward="true" selection-start-line="98" selection-end-line="115" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/podziekowania.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1566" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/site_content/podziekowania.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/co-dalej.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_content/opis-choroby.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="44" column="60" lean-forward="true" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kontakt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2082">
-          <folding>
-            <element signature="n#style#0;n#table#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_content/kontakt.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        <state relative-caret-position="414">
+          <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
         </state>
       </provider>
     </entry>

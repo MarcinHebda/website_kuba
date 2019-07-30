@@ -8,6 +8,14 @@
 <p>&nbsp;</p>
 <h3>Metoda NDT-Bobath</h3>
 <p align="justify">NDT-Bobath to metoda, której podstawę stanowi doskonała znajomość rozwoju neurofizjologicznego człowieka. Jest to koncepcja leczenia polegająca na hamowaniu wzorców nieprawidłowej aktywności ruchowej i&nbsp;nauczaniu prawidłowych wzorców postawy i&nbsp;ruchu niezbędnych do osiągnięcia samodzielności w&nbsp;takiej kolejności, w&nbsp;jakiej pojawiają się one w&nbsp;rozwoju osobniczym. Podstawową techniką stosowaną w&nbsp;ramach metody NDT-Bobath jest manipulacja punktami kluczowymi wykonywana rękami terapeuty, który stale dostosowuje układ posturalny do wzorca ruchowego. Punktami kluczowymi określa się części ciała odpowiedzialne za układ posturalny, np.: głowę, tułów, obręcz barkową i&nbsp;obręcz biodrową. Daje to pacjentowi możliwość poruszania się w&nbsp;zakresie, kierunku czy tempie przedtem nieosiągalnym. Zasadą jest, że postępowanie neurorozwojowe wprowadza się jak najwcześniej - najkorzystniejsze jest rozpoczynanie terapii w&nbsp;pierwszych miesiącach życia dziecka. W&nbsp;trakcie terapii stosuje się różne techniki mające za zadanie hamowanie patologicznych wzorców ruchowych i&nbsp;stymulowanie reakcji o&nbsp;charakterze fizjologicznym przy unormowanym napięciu mięśniowym, tzn. zbliżonym do prawidłowego. Nauczanie sensomotoryczne powoduje, że pacjent, poznając swoje ciało, uczy się nim posługiwać w&nbsp;sposób celowy. Terapia metodą NDT-Bobath jest systemem opieki roztoczonym nad pacjentem. Zatem kieruje uwagę nie tylko na terapię, ale także uczy opiekunów codziennej pielęgnacji pacjenta, tj. sposobów noszenia, kąpania, karmienia, itd. Właściwa pielęgnacja hamuje nieprawidłową aktywność ruchową i&nbsp;wyzwala prawidłowe ruchy. Kuba, prawie już od kilku tygodni po jego urodzeniu, był rehabilitowany tą metodą zarówno przez terapeutę, jak i&nbsp;poprzez wykonywanie zaleconych ćwiczeń w&nbsp;domu.</p>
+<div class="gallery">
+    <a href="galleries/rehabilitacja/imageA01.jpg"><img src="galleries/rehabilitacja/thumbs/thumbA01.jpg" alt="" title="Metoda NDT-Bobath"/></a>
+    <a href="galleries/rehabilitacja/imageA02.jpg"><img src="galleries/rehabilitacja/thumbs/thumbA02.jpg" alt="" title="Metoda NDT-Bobath"/></a>
+    <a href="galleries/rehabilitacja/imageA03.jpg"><img src="galleries/rehabilitacja/thumbs/thumbA03.jpg" alt="" title="Metoda NDT-Bobath"/></a>
+    <a href="galleries/rehabilitacja/imageA04.jpg"><img src="galleries/rehabilitacja/thumbs/thumbA04.jpg" alt="" title="Metoda NDT-Bobath"/></a>
+    <div class="clear"></div>
+</div>
+
 
 <p>&nbsp;</p>
 <h3>Hipoterapia</h3>
@@ -23,17 +31,49 @@ Zalety hipoterapii u Kuby:
     <li>działanie motywacyjne;</li>
     <li>rozwijanie pozytywnych kontaktów społecznych.</li>
 </ul>
+<div class="gallery">
+    <a href="galleries/rehabilitacja/imageB01.jpg"><img src="galleries/rehabilitacja/thumbs/thumbB01.jpg" alt="" title="Hipoterapia"/></a>
+    <a href="galleries/rehabilitacja/imageB02.jpg"><img src="galleries/rehabilitacja/thumbs/thumbB02.jpg" alt="" title="Hipoterapia"/></a>
+    <a href="galleries/rehabilitacja/imageB03.jpg"><img src="galleries/rehabilitacja/thumbs/thumbB03.jpg" alt="" title="Hipoterapia"/></a>
+    <a href="galleries/rehabilitacja/imageB04.jpg"><img src="galleries/rehabilitacja/thumbs/thumbB04.jpg" alt="" title="Hipoterapia"/></a>
+    <div class="clear"></div>
+</div>
+
+
 
 <p>&nbsp;</p>
 <h3>Masaż</h3>
 <p align="justify">Masaż jest doskonałą formą fizjoterapii u&nbsp;dzieci z&nbsp;wrodzonymi wadami kończyn. Masaże rehabilitacyjne polegają na mechanicznym działaniu na powłoki skórne, mięśnie, torebki i&nbsp;więzadła stawowe. Jego skutkiem są zmiany i&nbsp;reakcje w organizmie pacjenta. Posiadają one charakter miejscowy i&nbsp;ogólny. Te pierwsze stanowią zmiany powstające bezpośrednio w&nbsp;miejscu masowania tkanki. Drugie dotyczą skutków wywołanych w&nbsp;układach: krążenia, nerwowym, wewnątrzwydzielniczym. Masaże rehabilitacyjne usprawniają układ ruchu, wspomagają tkankę łączną oraz zakończenia nerwowe w&nbsp;skórze.</p>
 <p align="justify">Dzięki masażom rehabilitacyjnym Kuba nie tylko szybciej odzyskuje sprawność i&nbsp;funkcjonalność kończyny, zwłaszcza po przebytych operacjach, ale stale korygowane są zaburzenia w&nbsp;pracy jego mięśni. Takie masaże są świetnym dodatkiem do ćwiczeń wykonywanych podczas fizjoterapii.</p>
+<div class="gallery">
+    <a href="galleries/rehabilitacja/imageC01.jpg"><img src="galleries/rehabilitacja/thumbs/thumbC01.jpg" alt="" title="Masaż"/></a>
+    <a href="galleries/rehabilitacja/imageC02.jpg"><img src="galleries/rehabilitacja/thumbs/thumbC02.jpg" alt="" title="Masaż"/></a>
+    <a href="galleries/rehabilitacja/imageC03.jpg"><img src="galleries/rehabilitacja/thumbs/thumbC03.jpg" alt="" title="Masaż"/></a>
+    <a href="galleries/rehabilitacja/imageC04.jpg"><img src="galleries/rehabilitacja/thumbs/thumbC04.jpg" alt="" title="Masaż"/></a>
+    <div class="clear"></div>
+</div>
+
 
 <p>&nbsp;</p>
 <h3>Lokomat</h3>
 <p align="justify">Lokomat to pierwsze na świecie urządzenie, które umożliwia zautomatyzowaną terapię chodu oraz rozszerzenie i&nbsp;uzupełnienie rehabilitacji. Zapobiega powstawaniu kompensacji i&nbsp;patologicznych wzorców we wczesnych etapach usprawniania w&nbsp;schorzeniach neurologicznych i&nbsp;ortopedycznych. Urządzenie pomaga przywracać zdolność chodzenia osobom z&nbsp;uszkodzeniem centralnego układu nerwowego, schorzeniami neurologicznymi i&nbsp;ortopedycznymi oraz urazami po wypadkach. System wymusza prawidłowy wzorzec chodu.</p>
 <p align="justify">Lokomat składa się z&nbsp;bieżni oraz układu dynamicznego odciążenia, w&nbsp;którym umieszczany jest pacjent. Urządzenie pozwala na precyzyjne wykonanie cykli chodu o&nbsp;wzorcu maksymalnie zbliżonym do naturalnego. Jest to niezbędny element w&nbsp;przywracaniu utraconej lub zaburzonej funkcji chodu, stymuluje bowiem tworzenie się nowych połączeń nerwowych w&nbsp;centralnym układzie nerwowym. Czas treningu dostosowywany jest indywidualnie do pacjenta, zwykle jest to 20‒60 minut. Parametry chodu, prędkość, długość kroku, zakresy ruchu w&nbsp;stawach biodrowych i&nbsp;kolanowych, można dla każdego rehabilitowanego ustawiać dowolnie. Lokomat wspierany jest programem komputerowym, który pozwala na rehabilitację z&nbsp;wykorzystaniem wirtualnej rzeczywistości. U&nbsp;Kuby tę metodę zastosowano po przebytej operacji - wydłużaniu jego kości udowej w&nbsp;2015 roku. Za pomocą lokomatu, po trwającej 21 dni terapii, przywrócono Kubie prawidłowy wzorzec chodu, który uległ zaburzeniu pod wpływem noszenia na kończynie ciężkiego aparatu przez wiele miesięcy.</p>
+<div class="gallery">
+    <a href="galleries/rehabilitacja/imageD01.jpg"><img src="galleries/rehabilitacja/thumbs/thumbD01.jpg" alt="" title="Lokomat"/></a>
+    <a href="galleries/rehabilitacja/imageD02.jpg"><img src="galleries/rehabilitacja/thumbs/thumbD02.jpg" alt="" title="Lokomat"/></a>
+    <a href="galleries/rehabilitacja/imageD03.jpg"><img src="galleries/rehabilitacja/thumbs/thumbD03.jpg" alt="" title="Lokomat"/></a>
+    <a href="galleries/rehabilitacja/imageD04.jpg"><img src="galleries/rehabilitacja/thumbs/thumbD04.jpg" alt="" title="Lokomat"/></a>
+    <div class="clear"></div>
+</div>
+
 
 <p>&nbsp;</p>
 <h3>Pływanie</h3>
 <p align="justify">Rehabilitacja w&nbsp;wodzie wpływa na poprawę jakości życia u&nbsp;osób z dysfunkcją ruchową. Woda jest doskonałym środowiskiem do prowadzenia zabiegów rehabilitacyjnych. Ze względu na swoje właściwości wpływa na rozluźnienie mięśni, a&nbsp;jednocześnie dzięki oporowi jaki powoduje, pozwala na wzmacnianie określonych grup mięśniowych przy odpowiednio dobranych ćwiczeniach. Ze względu na opór wody, pływanie i&nbsp;wykonywane w&nbsp;niej ćwiczenia są ćwiczeniami siłowymi. Jednocześnie wyporność wody powoduje, że odczuwany ciężar ciała jest nawet 10 razy mniejszy od rzeczywistego. Dlatego też zalecane ćwiczenia łatwiej jest wykonywać w&nbsp;wodzie. Nie przeciążają one ścięgien, przyczepów, stawów oraz mięśni. Pływanie mobilizuje cały aparat ruchowy Kuby, a&nbsp;jednocześnie spowolnienie ruchów w&nbsp;wodzie ogranicza ryzyko wystąpienia kontuzji. Ćwiczenia w&nbsp;wodzie skracają czas rehabilitacji po przebytych zabiegach, a&nbsp;co za tym idzie, Kuba szybciej uzyskuje sprawność.</p>
+<div class="gallery">
+    <a href="galleries/rehabilitacja/imageE01.jpg"><img src="galleries/rehabilitacja/thumbs/thumbE01.jpg" alt="" title="Pływanie"/></a>
+    <a href="galleries/rehabilitacja/imageE02.jpg"><img src="galleries/rehabilitacja/thumbs/thumbE02.jpg" alt="" title="Pływanie"/></a>
+    <a href="galleries/rehabilitacja/imageE03.jpg"><img src="galleries/rehabilitacja/thumbs/thumbE03.jpg" alt="" title="Pływanie"/></a>
+    <a href="galleries/rehabilitacja/imageE04.jpg"><img src="galleries/rehabilitacja/thumbs/thumbE04.jpg" alt="" title="Pływanie"/></a>
+    <div class="clear"></div>
+</div>
